@@ -11,6 +11,10 @@
 #include <btree.h>
 #include <hash.h>
 
+
+#define LF '\n'
+#define SPACE ' '
+#define TAB '\t'
 /*
  * 
  */
